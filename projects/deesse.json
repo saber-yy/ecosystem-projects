@@ -1,0 +1,20 @@
+{
+  "name": "DEESSE",
+  "slug": "DEESSE",
+  "date": "2022-02-16",
+  "highlight": "Deesse is an idle role-playing (RPG) & card placement (CPG) P2E play-and-earn game",
+  "logo": "/img/deesse.png",
+  "tags": [
+    "game"
+  ],
+  "status": "live",
+  "website": "https://deesse.art/home",
+  "twitter": "https://twitter.com/deesse_dao",
+  "summary": "Deesse is a blockchain blockchain-enabled, idle Role-Playing Game (RPG) or Card Placement Game (CPG) with progress-based and skill-based features with the incorporation of the Play-to-Earn mechanic, allowing players to earn tokens and NFT in the gameplay. Deesse will be available on both mobile apps and web pages.",
+  "telegram": "https://t.me/deesse2021c",
+  "discord": "https://discord.com/invite/mh4cSefPxg",
+  "docs": "",
+  "github": "https://github.com/DeesseGame/dee_contracts",
+  "token": "0x0A24e12aA7793600f9c024Ef3585AbDeC01926da",
+  "cmc": ""
+}
